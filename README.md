@@ -6,17 +6,17 @@ Frontend engineer with ReactJs learning path
 ### 1. Web technology
 
 ##### HTML
-https://www.w3schools.com/html/. 
-https://developer.mozilla.org/en-US/docs/Web/HTML. 
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5. 
+https://www.w3schools.com/html/  
+https://developer.mozilla.org/en-US/docs/Web/HTML  
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5  
 
 ##### CSS
-https://github.com/micromata/awesome-css-learning. 
-https://developer.mozilla.org/en-US/docs/Web/CSS. 
+https://github.com/micromata/awesome-css-learning  
+https://developer.mozilla.org/en-US/docs/Web/CSS  
 https://www.w3schools.com/css/
 
 ##### JavaScript
-https://github.com/micromata/awesome-javascript-learning. 
+https://github.com/micromata/awesome-javascript-learning  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ##### Web APIs
