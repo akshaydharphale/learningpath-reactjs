@@ -30,10 +30,8 @@ https://github.com/ericdouglas/react-learning
 ### 3. Source code version manager
 
 ##### Git
-https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
-
-https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/  
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners  
 https://try.github.io/
 
 ##### Git branching model
