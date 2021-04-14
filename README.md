@@ -7,9 +7,7 @@ Frontend engineer with ReactJs learning path
 
 ##### HTML
 https://www.w3schools.com/html/
-
 https://developer.mozilla.org/en-US/docs/Web/HTML
-
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
 ##### CSS
